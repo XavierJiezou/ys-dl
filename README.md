@@ -36,13 +36,13 @@ pip install ys-dl
 
 `$ ys-dl`
 
-- Download cosplay images
+- Download cosplay images.
 
 ```bash
 ys-dl cos
 ```
 
-- Download fan works images
+- Download fan works images.
 
 ```bash
 ys-dl fan
