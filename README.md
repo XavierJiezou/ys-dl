@@ -64,5 +64,9 @@ See [CHANGELOG.md](CHANGELOG.md)
 
 ## References
 
-- [Python dependency management and packaging made easy.](https://github.com/python-poetry/poetry)
-- [Selenium Documentation](https://www.selenium.dev/selenium/docs/api/py/api.html)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=python-poetry&repo=poetry)](https://github.com/python-poetry/poetry)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeleniumHQ&repo=selenium)](https://github.com/SeleniumHQ/selenium)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=psf&repo=requests)](https://github.com/psf/requests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Textualize&repo=rich)](https://github.com/Textualize/rich)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=google&repo=python-fire)](https://github.com/google/python-fire)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pytest-dev&repo=pytest)](https://github.com/pytest-dev/pytest)
