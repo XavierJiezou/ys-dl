@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "ys-dl"
-version = "0.1.0"
+version = "0.1.1"
 description = "Command-line program to download images from Genshin Impact Community"
 license = "MIT"
 authors = ["XavierJiezou <878972272@qq.com>"]
