@@ -1,6 +1,6 @@
 # ys-dl
 
-Command-line program to download images from Genshin Impact Community.
+Command-line program to download images from [Genshin Impact Community](https://ys.mihoyo.com/).
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/XavierJiezou/ys-dl/Release)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c2f85c8d6b8a4892b40059703f087eab)](https://www.codacy.com/gh/XavierJiezou/ys-dl/dashboard?utm_source=github.com&utm_medium=referral&utm_content=XavierJiezou/ys-dl&utm_campaign=Badge_Grade)
@@ -15,9 +15,16 @@ Command-line program to download images from Genshin Impact Community.
 
 ## Demo
 
+![demo](image/demo.png)
+
 ## Features
 
-- [x] Download the background image of the [official website](https://ys.mihoyo.com/).
+- [x] Download icon image.
+- [x] Download background image.
+- [x] Download cosplay image.
+- [x] Download fan works image.
+- [x] Download ranking images.
+- [ ] Downlaod topic images.
 
 ## Install
 
@@ -27,41 +34,24 @@ pip install ys-dl
 
 ## Usage
 
-`$ ys-dl --help`
+`$ ys-dl`
 
-- icon
+- Download cosplay images
 
 ```bash
-ys-dl icon # Downlaod 256x256 icon by default
-ys-dl icon --size 32 # Download 32x32 icon
+ys-dl cos
 ```
 
-- rank
+- Download fan works images
 
 ```bash
-ys-dl icon # Downlaod 256x256 logo by default
-ys-dl icon --size 32 # Download 32x32 logo
+ys-dl fan
 ```
 
-- cos
+- Download ranking images.
 
 ```bash
-ys-dl icon # Downlaod 256x256 logo by default
-ys-dl icon --size 32 # Download 32x32 logo
-```
-
-- fan
-
-```bash
-ys-dl icon # Downlaod 256x256 logo by default
-ys-dl icon --size 32 # Download 32x32 logo
-```
-
-- topic
-
-```bash
-ys-dl icon # Downlaod 256x256 logo by default
-ys-dl icon --size 32 # Download 32x32 logo
+ys-dl rank
 ```
 
 ## Changelog
