@@ -90,10 +90,17 @@ class YsDl(object):
         else:
             pass
         save_path = os.path.join(save_dir, img_name)
-        if mode == 'static':
-            return self.dl_img_static(img_url, save_path)
+        if os.path.exists(save_path):
+            return {
+                'status': 200,
+                'data': save_path,
+                'msg': 'success',
+            }
         else:
-            return self.dl_img_dynamic(img_url, save_path, driver)
+            if mode == 'static':
+                return self.dl_img_static(img_url, save_path)
+            else:
+                return self.dl_img_dynamic(img_url, save_path, driver)
 
     def get_icon_img(
         self,
