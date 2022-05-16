@@ -74,7 +74,7 @@ pip install ys-dl
 
 ---
 
-`ys-dl`是基于 [selenium](https://www.selenium.dev/) 开发的。目前唯一支持的浏览器是 Chrome，因此你的系统必须安装有 Chrome 浏览器，并下载 [Chrome WebDriver](https://chromedriver.chromium.org/downloads) 放入 Python 安装目录。（想了解关于 WebDriver 的详细信息？请参阅[这里](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/)。）
+`ys-dl`是基于 [selenium](https://www.selenium.dev/) 开发的。目前唯一支持的浏览器是 Chrome，因此你的系统必须安装有 Chrome 浏览器，并下载 [Chrome WebDriver](https://chromedriver.chromium.org/downloads) 放入 Python 安装目录。（想了解关于 WebDriver 的详细信息？请参阅[这里](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/)）
 
 ## 用法
 
