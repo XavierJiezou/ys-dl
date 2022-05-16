@@ -92,7 +92,7 @@ ys-dl cos
 ys-dl fan
 ```
 
-- 根据排名（日榜 | 周榜 | 月榜）下载原神社区 COS 图或同人图
+- 根据排名（日榜 | 周榜 | 月榜）下载原神社区 [COS 图](https://bbs.mihoyo.com/ys/imgRanking/49/1)或[同人图](https://bbs.mihoyo.com/ys/imgRanking/29/1)
 
 ```bash
 ys-dl rank
