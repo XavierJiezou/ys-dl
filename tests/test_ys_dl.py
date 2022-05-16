@@ -142,3 +142,15 @@ class TestYsDl(YsDl):
             result = self.get_article_img(url, driver)
             assert len(result['data']['urls']) == sample[url]
         driver.quit()
+    
+    def test_get_article(self):
+        pass
+
+    def test_get_topic_url(self):
+        pass
+
+    def test_get_topic_img(self):
+        pass
+    
+    def test_get_topic(self):
+        pass

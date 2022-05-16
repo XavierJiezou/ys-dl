@@ -222,6 +222,9 @@ class YsDl(object):
                 'data': None,
                 'msg': 'failure'
             }
+    
+    def get_article(self):
+        pass
 
     # TODO (GitHub@XavierJiezou): Download images belonging to topic tags.
     def get_topic_url(self):
