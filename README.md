@@ -74,11 +74,7 @@ pip install ys-dl
 
 ---
 
-`ys-dl` is developed based on selenium. Currently, the only supported browser is chrome, you need to download Chrome WebDriver and put it in the Python installation directory.
-
-> Chrome WebDriver: [Downloads](https://chromedriver.chromium.org/downloads)
-
-For more details about WebDriver, refer to [here](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/).
+`ys-dl` is developed based on selenium. Currently, the only supported browser is chrome, you need to download [Chrome WebDriver](https://chromedriver.chromium.org/downloads) and put it in the Python installation directory. For more details about WebDriver, refer to [here](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/).
 
 ## Usage
 
