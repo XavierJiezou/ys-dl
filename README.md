@@ -1,3 +1,5 @@
+![logo](image/favicon.ico)
+
 # ys-dl
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/XavierJiezou/ys-dl/Release)
@@ -10,8 +12,6 @@
 [![GitHub forks](https://img.shields.io/github/forks/XavierJiezou/ys-dl)](https://github.com/XavierJiezou/ys-dl/network)
 [![GitHub issues](https://img.shields.io/github/issues/XavierJiezou/ys-dl)](https://github.com/XavierJiezou/ys-dl/issues)
 [![GitHub license](https://img.shields.io/github/license/XavierJiezou/ys-dl)](https://github.com/XavierJiezou/ys-dl/blob/main/LICENSE)
-
-![logo](image/favicon.ico)
 
 Command-line program to download images from [Genshin Impact Community](https://bbs.mihoyo.com/ys/).
 
