@@ -5,7 +5,6 @@ import time
 from typing import Any
 
 import fire
-from pytest import param
 from rich.console import Console
 from rich.progress import (
     Progress,
