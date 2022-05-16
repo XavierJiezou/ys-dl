@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="logo" src="image/favicon.ico" />
+    <img alt="logo" src="../image/favicon.ico" />
     <h1 align="center">Yuanshen-Downloader</h1>
     <p align="center">Command-line program to download images from <a href="https://bbs.mihoyo.com/ys/">Genshin Impact Community</a>.
     </p>
@@ -55,7 +55,7 @@
 
 ## Demo
 
-![demo](image/demo.png)
+![demo](../image/demo.png)
 
 ## Features
 
