@@ -51,7 +51,7 @@
     <a href="/docs/README.cn.md">简体中文</a>
   </p>
 </p>
-<p align="center">Love the project? Please consider <a href="https://paypal.me/xavierjiezou">donating</a> to help it improve!
+<p align="center">Love the project? Please consider <a href="https://paypal.me/xavierjiezou?country.x=C2&locale.x=zh_XC">donating</a> to help it improve!
 
 ## Demo
 
