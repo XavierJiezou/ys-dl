@@ -1,8 +1,3 @@
-import os
-import random
-import time
-
-from selenium import webdriver
 import toml
 
 from ys_dl.cli import YsDlCli
@@ -36,10 +31,19 @@ class TestYsDlCli(object):
     def test_get_rank_key(self):
         pass
 
+    def test_get_rank_api(self):
+        pass
+
     def test_get_dl_limit(self):
         pass
 
     def test_dl_img_loop(self):
+        pass
+
+    def test_get_params(self):
+        pass
+
+    def test_article(self):
         pass
 
     def test_cos(self):
