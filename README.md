@@ -1,6 +1,6 @@
 # ys-dl
 
-Command-line program to download images from [Genshin Impact Community](https://ys.mihoyo.com/).
+Command-line program to download images from [Genshin Impact Community](https://bbs.mihoyo.com/ys/).
 
 ![GitHub Workflow Status](https://img.shields.io/github/workflow/status/XavierJiezou/ys-dl/Release)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c2f85c8d6b8a4892b40059703f087eab)](https://www.codacy.com/gh/XavierJiezou/ys-dl/dashboard?utm_source=github.com&utm_medium=referral&utm_content=XavierJiezou/ys-dl&utm_campaign=Badge_Grade)

@@ -1,6 +1,4 @@
-"""
-A summary of interesting image APIs to https://bbs.mihoyo.com/ys/.
-"""
+"""A summary of interesting image APIs to https://bbs.mihoyo.com/ys/"""
 
 
 from ast import Pass
