@@ -1,7 +1,7 @@
 <p align="center">
-    <img alt="logo" src="image/favicon.ico" />
-    <h1 align="center">Yuanshen-Downloader</h1>
-    <p align="center">Command-line program to download images from <a href="https://bbs.mihoyo.com/ys/">Genshin Impact Community</a>.
+    <img alt="logo" src="./image/favicon.ico" />
+    <h1 align="center">原神下载器</h1>
+    <p align="center">一个从<a href="https://bbs.mihoyo.com/ys/">原神社区</a>自动抓取图片的命令行工具。
     </p>
 </p>
 <p align="center">
@@ -39,11 +39,11 @@
     </p>
 
   <p align="center">
-    <a href="#demo">View Demo</a>
+    <a href="#demo">观看演示</a>
     •
-    <a href="https://github.com/xavierjiezou/ys-dl/issues/new">Report Bug</a>
+    <a href="https://github.com/xavierjiezou/ys-dl/issues/new">报告错误</a>
     •
-    <a href="https://github.com/xavierjiezou/ys-dl/issues/new">Request Feature</a>
+    <a href="https://github.com/xavierjiezou/ys-dl/issues/new">报告功能</a>
   </p>
   <p align="center">
     <a href="/docs/README.en.md">English </a>
@@ -51,22 +51,22 @@
     <a href="/docs/README.cn.md">简体中文</a>
   </p>
 </p>
-<p align="center">Love the project? Please consider <a href="https://paypal.me/xavierjiezou?country.x=C2&locale.x=zh_XC">donating</a> to help it improve!
+<p align="center">喜欢这个项目吗？请考虑捐赠<a href="https://paypal.me/xavierjiezou?country.x=C2&locale.x=zh_XC">（<a href="https://cdn.jsdelivr.net/gh/XavierJiezou/ys-dl@main/image/wechat.jpg">微信</a> | <a href="https://cdn.jsdelivr.net/gh/XavierJiezou/ys-dl@main/image/alipay.jpg">支付宝</a>）</a>，以帮助它改善！
 
-## Demo
+## 演示
 
-![demo](image/demo.png)
+![demo](./image/demo.png)
 
-## Features
+## 功能
 
-- [x] Download icon image.
-- [x] Download background image.
-- [x] Download cosplay image.
-- [x] Download fan works image.
-- [x] Download ranking images.
-- [ ] Downlaod topic images.
+- [x] 原神[官网](https://ys.mihoyo.com/)图标下载
+- [x] 原神[官网](https://ys.mihoyo.com/)背景图片下载
+- [x] 原神社区 [COS](https://bbs.mihoyo.com/ys/home/49) 图下载
+- [x] 原神社区[同人图](https://bbs.mihoyo.com/ys/home/29)下载
+- [x] 原神社区 [COS 榜](https://bbs.mihoyo.com/ys/imgRanking/49/1)与[同人榜](https://bbs.mihoyo.com/ys/imgRanking/29/1)下图片载
+- [ ] 原神社区[话题标签](https://bbs.mihoyo.com/ys/topicDetail/558)所属图片下载
 
-## Install
+## 安装
 
 ```bash
 pip install ys-dl
@@ -74,39 +74,39 @@ pip install ys-dl
 
 ---
 
-`ys-dl` is developed based on selenium. Currently, the only supported browser is chrome, you need to download [Chrome WebDriver](https://chromedriver.chromium.org/downloads) and put it in the Python installation directory. For more details about WebDriver, refer to [here](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/).
+`ys-dl`是基于 [selenium](https://www.selenium.dev/) 开发的。目前唯一支持的浏览器是 Chrome，因此你的系统必须安装有 Chrome 浏览器，并下载 [Chrome WebDriver](https://chromedriver.chromium.org/downloads) 放入 Python 安装目录。（想了解关于 WebDriver 的详细信息？请参阅[这里](https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/)。）
 
-## Usage
+## 用法
 
 `$ ys-dl`
 
-- Download cosplay images.
+- 原神社区 [COS](https://bbs.mihoyo.com/ys/home/49) 图片下载
 
 ```bash
 ys-dl cos
 ```
 
-- Download fan works images.
+- 原神社区[同人图](https://bbs.mihoyo.com/ys/home/29)下载
 
 ```bash
 ys-dl fan
 ```
 
-- Download ranking images.
+- 根据排名（日榜 | 周榜 | 月榜）下载原神社区 COS 图或同人图
 
 ```bash
 ys-dl rank
 ```
 
-## Changelog
+## 更新
 
-See [CHANGELOG.md](CHANGELOG.md)
+更新日志见 [CHANGELOG.md](CHANGELOG.md)
 
-## License
+## 证书
 
 [MIT License](License)
 
-## References
+## 参考
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=python-poetry&repo=poetry)](https://github.com/python-poetry/poetry)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SeleniumHQ&repo=selenium)](https://github.com/SeleniumHQ/selenium)
