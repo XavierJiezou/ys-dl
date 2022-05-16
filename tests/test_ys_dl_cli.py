@@ -1,7 +1,6 @@
 import toml
 
 from ys_dl.cli import YsDlCli
-from ys_dl.apis import APIS
 
 
 class TestYsDlCli(object):
