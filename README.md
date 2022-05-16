@@ -39,7 +39,7 @@
     </p>
 
   <p align="center">
-    <a href="##demo">观看演示</a>
+    <a href="#演示">观看演示</a>
     •
     <a href="https://github.com/xavierjiezou/ys-dl/issues/new">报告错误</a>
     •
