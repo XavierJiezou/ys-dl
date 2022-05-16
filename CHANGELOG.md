@@ -6,7 +6,7 @@
 
 - Fixed the `fake_useragent` exception: `Error occurred during loading data. Trying to use cache server https://fake-useragent.herokuapp.com`.
 
-## [0.1.2] - 2022-04-28
+## [0.1.2] - 2022-05-16
 
 ### Added
 
@@ -20,7 +20,7 @@
 
 - Fixed the `cli.py` import.
 
-## [0.1.1] - 2022-04-28
+## [0.1.1] - 2022-05-15
 
 ### Added
 
@@ -34,7 +34,7 @@
 
 - Fixed `version` display.
 
-## [0.1.0] - 2022-04-28
+## [0.1.0] - 2022-05-14
 
 Initial release
 
