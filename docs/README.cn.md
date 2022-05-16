@@ -1,7 +1,7 @@
 <p align="center">
     <img alt="logo" src="https://cdn.jsdelivr.net/gh/XavierJiezou/ys-dl@main/image/favicon.ico" />
     <h1 align="center">原神下载器</h1>
-    <p align="center">一个从<a href="https://bbs.mihoyo.com/ys/">原神社区</a>自动抓取图片的命令行工具。
+    <p align="center">一个可以从<a href="https://bbs.mihoyo.com/ys/">原神社区</a>自动抓取图片的命令行工具。
     </p>
 </p>
 <p align="center">
