@@ -43,7 +43,7 @@
     •
     <a href="https://github.com/xavierjiezou/ys-dl/issues/new">报告错误</a>
     •
-    <a href="https://github.com/xavierjiezou/ys-dl/issues/new">报告功能</a>
+    <a href="https://github.com/xavierjiezou/ys-dl/issues/new">功能需求</a>
   </p>
   <p align="center">
     <a href="/docs/README.en.md">English </a>
