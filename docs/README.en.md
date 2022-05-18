@@ -10,9 +10,6 @@
         <img src="https://github.com/XavierJiezou/ys-dl/workflows/Release/badge.svg"
             alt="GitHub Workflow Release Status" />
     </a>
-    <a href='https://ys-dl.readthedocs.io/en/latest/?badge=latest'>
-        <img src='https://readthedocs.org/projects/ys-dl/badge/?version=latest' alt='Documentation Status' />
-    </a>
     <a
         href="https://www.codacy.com/gh/XavierJiezou/ys-dl/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=XavierJiezou/ys-dl&amp;utm_campaign=Badge_Grade">
         <img src="https://app.codacy.com/project/badge/Grade/c2f85c8d6b8a4892b40059703f087eab" alt="Codacy Badge">
