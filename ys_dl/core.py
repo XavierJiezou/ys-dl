@@ -240,4 +240,9 @@ class YsDl(object):
 
 
 if __name__ == '__main__':
-    pass
+    options = webdriver.ChromeOptions()
+    options.add_experimental_option('excludeSwitches', ['enable-logging'])
+    driver = webdriver.Chrome(options=options)
+    result = YsDl().get_article_img('https://bbs.mihoyo.com/ys/article/22335059', driver=driver)
+    print(result)
+    driver.quit()

@@ -1,11 +1,18 @@
 <p align="center">
-    <img alt="logo" src="../image/favicon.ico" />
-    <h1 align="center">Yuanshen-Downloader</h1>
-    <p align="center">Command-line program to download images from <a href="https://bbs.mihoyo.com/ys/">Genshin Impact Community</a>.
-    </p>
+    <img alt="logo" src="https://cdn.jsdelivr.net/gh/XavierJiezou/ys-dl@main/image/favicon.ico" />
+<h1 align="center">Yuanshen-Downloader</h1>
+<p align="center">Command-line program to download images from <a href="https://bbs.mihoyo.com/ys/">Genshin Impact
+        Community</a>.
+</p>
 </p>
 <p align="center">
-    <img src="https://img.shields.io/github/workflow/status/XavierJiezou/ys-dl/Release" alt="GitHub Workflow Status">
+    <a href="https://github.com/XavierJiezou/ys-dl/actions?query=workflow:Release">
+        <img src="https://github.com/XavierJiezou/ys-dl/workflows/Release/badge.svg"
+            alt="GitHub Workflow Release Status" />
+    </a>
+    <a href='https://ys-dl.readthedocs.io/en/latest/?badge=latest'>
+        <img src='https://readthedocs.org/projects/ys-dl/badge/?version=latest' alt='Documentation Status' />
+    </a>
     <a
         href="https://www.codacy.com/gh/XavierJiezou/ys-dl/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=XavierJiezou/ys-dl&amp;utm_campaign=Badge_Grade">
         <img src="https://app.codacy.com/project/badge/Grade/c2f85c8d6b8a4892b40059703f087eab" alt="Codacy Badge">
@@ -13,9 +20,15 @@
     <a href="https://codecov.io/gh/XavierJiezou/ys-dl">
         <img src="https://codecov.io/gh/XavierJiezou/ys-dl/branch/main/graph/badge.svg?token=QpCLcUGoYx" alt="codecov">
     </a>
-    <img src="https://img.shields.io/pypi/pyversions/ys-dl" alt="PyPI - Python Version">
-    <img src="https://img.shields.io/pypi/dm/ys-dl" alt="PyPI - Downloads">
-    <img src="https://img.shields.io/pypi/v/ys-dl" alt="PyPI">
+    <a href="https://pypi.org/project/ys-dl/">
+        <img src="https://img.shields.io/pypi/pyversions/ys-dl" alt="PyPI - Python Version">
+    </a>
+    <a href="https://pypistats.org/packages/ys-dl">
+        <img src="https://img.shields.io/pypi/dm/ys-dl" alt="PyPI - Downloads">
+    </a>
+    <a href="https://pypi.org/project/ys-dl/">
+        <img src="https://img.shields.io/pypi/v/ys-dl" alt="PyPI">
+    </a>
     <a href="https://github.com/XavierJiezou/ys-dl/stargazers">
         <img src="https://img.shields.io/github/stars/XavierJiezou/ys-dl" alt="GitHub stars">
     </a>
@@ -33,29 +46,30 @@
     <a href="https://www.python.org/">
         <img src="http://ForTheBadge.com/images/badges/made-with-python.svg" alt="forthebadge made-with-python">
     </a>
-        <a href="https://github.com/XavierJiezou">
+    <a href="https://github.com/XavierJiezou">
         <img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="ForTheBadge built-with-love">
-        </a>
-    </p>
-
-  <p align="center">
+    </a>
+</p>
+<p align="center">
     <a href="#demo">View Demo</a>
     •
     <a href="https://github.com/xavierjiezou/ys-dl/issues/new">Report Bug</a>
     •
     <a href="https://github.com/xavierjiezou/ys-dl/issues/new">Request Feature</a>
-  </p>
-  <p align="center">
+</p>
+<p align="center">
     <a href="/docs/README.en.md">English </a>
     •
     <a href="/docs/README.cn.md">简体中文</a>
-  </p>
 </p>
-<p align="center">Love the project? Please consider <a href="https://paypal.me/xavierjiezou?country.x=C2&locale.x=zh_XC">donating</a> to help it improve!
+<p align="center">Love the project? Please consider <a
+        href="https://paypal.me/xavierjiezou?country.x=C2&locale.x=zh_XC">donating</a> to help it improve!</p>
 
 ## Demo
 
-![demo](../image/demo.png)
+![demo](https://cdn.jsdelivr.net/gh/XavierJiezou/ys-dl@main/image/demo.png)
+
+![show](https://cdn.jsdelivr.net/gh/XavierJiezou/ys-dl@main/image/show.png)
 
 ## Features
 
@@ -100,11 +114,11 @@ ys-dl rank
 
 ## Changelog
 
-See [CHANGELOG.md](CHANGELOG.md)
+See [CHANGELOG.md](/CHANGELOG.md)
 
 ## License
 
-[MIT License](License)
+[MIT License](/License)
 
 ## References
 
