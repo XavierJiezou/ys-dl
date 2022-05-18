@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="logo" src="https://cdn.jsdelivr.net/gh/XavierJiezou/ys-dl@main/image/favicon.ico" />
+    <img alt="logo" src="https://raw.githubusercontent.com/XavierJiezou/ys-dl/main/image/favicon.ico" />
 <h1 align="center">Yuanshen-Downloader</h1>
 <p align="center">Command-line program to download images from <a href="https://bbs.mihoyo.com/ys/">Genshin Impact
         Community</a>.
@@ -64,9 +64,9 @@
 
 ## Demo
 
-![demo](https://cdn.jsdelivr.net/gh/XavierJiezou/ys-dl@main/image/demo.png)
+![demo](https://raw.githubusercontent.com/XavierJiezou/ys-dl/main/image/demo.png)
 
-![show](https://cdn.jsdelivr.net/gh/XavierJiezou/ys-dl@main/image/show.png)
+![show](https://raw.githubusercontent.com/XavierJiezou/ys-dl/main/image/show.png)
 
 ## Features
 

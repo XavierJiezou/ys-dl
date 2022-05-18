@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="logo" src="https://cdn.jsdelivr.net/gh/XavierJiezou/ys-dl@main/image/favicon.ico" />
+    <img alt="logo" src="https://raw.githubusercontent.com/XavierJiezou/ys-dl/main/image/favicon.ico" />
 <h1 align="center">原神下载器</h1>
 <p align="center">一个可以从<a href="https://bbs.mihoyo.com/ys/">原神社区</a>自动抓取图片的命令行工具。
 </p>
@@ -59,14 +59,14 @@
     <a href="/docs/README.cn.md">简体中文</a>
 </p>
 <p align="center">喜欢这个项目吗？请考虑捐赠<a href="https://paypal.me/xavierjiezou?country.x=C2&locale.x=zh_XC">（<a
-            href="https://cdn.jsdelivr.net/gh/XavierJiezou/ys-dl@main/image/wechat.jpg">微信</a> | <a
-            href="https://cdn.jsdelivr.net/gh/XavierJiezou/ys-dl@main/image/alipay.jpg">支付宝</a>）</a>，以帮助它改善！</p>
+            href="https://raw.githubusercontent.com/XavierJiezou/ys-dl/main/image/wechat.jpg">微信</a> | <a
+            href="https://raw.githubusercontent.com/XavierJiezou/ys-dl/main/image/alipay.jpg">支付宝</a>）</a>，以帮助它改善！</p>
 
 ## 演示
 
-![demo](https://cdn.jsdelivr.net/gh/XavierJiezou/ys-dl@main/image/demo.png)
+![demo](https://raw.githubusercontent.com/XavierJiezou/ys-dl/main/image/demo.png)
 
-![show](https://cdn.jsdelivr.net/gh/XavierJiezou/ys-dl@main/image/show.png)
+![show](https://raw.githubusercontent.com/XavierJiezou/ys-dl/main/image/show.png)
 
 ## 功能
 
